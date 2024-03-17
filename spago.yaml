@@ -1,0 +1,17 @@
+package:
+  dependencies:
+  - either
+  - foldable-traversable
+  - lists
+  - maybe
+  - newtype
+  - prelude
+  - profunctor
+  - profunctor-lenses
+  - tuples
+  - typelevel-prelude
+  name: barlow-lens
+workspace:
+  extra_packages: {}
+  package_set:
+    url: https://raw.githubusercontent.com/purescript/package-sets/psc-0.15.0-20220513/packages.json
